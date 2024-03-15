@@ -1,1 +1,1 @@
-<img src="Instagram/images/InstagramPage.png">
+<img src="images/InstagramPage.png">
